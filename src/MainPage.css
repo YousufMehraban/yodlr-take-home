@@ -1,0 +1,15 @@
+#Home {
+  margin-top: 40vh;
+  color: rgb(10, 2, 2);
+  font-size: x-large;
+  font-weight: bolder;
+}
+h1 {
+  font-size: 3rem;
+}
+
+.btn {
+  width: 160px;
+  margin: 5px;
+  text-decoration: none;
+}
